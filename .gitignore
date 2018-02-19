@@ -1,3 +1,7 @@
 /.idea
 /.bundle
 /vendor/bundle
+
+/log/*
+/tmp/*
+tags
